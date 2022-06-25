@@ -26,6 +26,8 @@ RUN also had 2 profitable years but there are some factors that make this less p
   - "RUN" (average return: 44.75%)
   
 ### Code Refactoring
+<img width="623" alt="Refactored Code pt 1" src="https://user-images.githubusercontent.com/106132054/175760467-ab335324-3368-4b9d-8f60-c14e6dd6c61e.png">
+<img width="623" alt="Refactored Code pt 2" src="https://user-images.githubusercontent.com/106132054/175760468-5a471b7a-2252-48b8-83ec-086cc273a249.png">
 
   The code has been refactored to increase efficiancy. 
   
@@ -47,14 +49,28 @@ RUN also had 2 profitable years but there are some factors that make this less p
   #### 2018
   
    <img width="292" alt="Reformatted run time 2018" src="https://user-images.githubusercontent.com/106132054/175483140-93d13ffb-1a2e-4cd2-b24f-b67648e6983c.png">
-   
-   
-- Code has been reduced from 5 Sub routines to 1 Subroutine and still functions the same yet faster.
-     
-    
 
 ## Summary
-
+  A VBA program has been devloped for Steve to use to help him and his client analyze the important information about the stock his client is invested in, as well as other stocks related to the green energy sector that his client is interested in.
+  With this data, Steve is able to feel confident in guiding his client to making informed decisions pertaining to the stocks in the sector of interest. 
 
 ### Advantages and Disadvanteges of Refactoring Code
+
+##### Refactored Code
+  ###### Advantages
+  - Program runs faster
+  - 1 Sub Routine
+  - Easier to read 
+  - Table is formatted with button click
+  ###### Disadvantages
+  - takes time to rewrite
+
+##### Original Code
+  ###### Advantages
+  - Only has to be written once
+  ###### Disadvantages
+  - Program runs slower
+  - Harder to read 
+  - 5 Sub Routines
+  - Did not format table with button click
 
